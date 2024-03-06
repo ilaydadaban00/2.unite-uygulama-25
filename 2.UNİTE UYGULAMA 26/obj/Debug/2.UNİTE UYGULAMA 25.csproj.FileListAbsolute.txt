@@ -1,0 +1,10 @@
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 26\2.UNİTE UYGULAMA 26\bin\Debug\2.UNİTE UYGULAMA 26.exe.config
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 26\2.UNİTE UYGULAMA 26\bin\Debug\2.UNİTE UYGULAMA 26.exe
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 26\2.UNİTE UYGULAMA 26\bin\Debug\2.UNİTE UYGULAMA 26.pdb
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 26\2.UNİTE UYGULAMA 26\obj\Debug\2.UNİTE UYGULAMA 25.csproj.AssemblyReference.cache
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 26\2.UNİTE UYGULAMA 26\obj\Debug\_2.UNİTE_UYGULAMA_26.Form1.resources
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 26\2.UNİTE UYGULAMA 26\obj\Debug\_2.UNİTE_UYGULAMA_26.Properties.Resources.resources
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 26\2.UNİTE UYGULAMA 26\obj\Debug\2.UNİTE UYGULAMA 25.csproj.GenerateResource.cache
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 26\2.UNİTE UYGULAMA 26\obj\Debug\2.UNİTE UYGULAMA 25.csproj.CoreCompileInputs.cache
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 26\2.UNİTE UYGULAMA 26\obj\Debug\2.UNİTE UYGULAMA 26.exe
+C:\Users\Seyda\source\repos\2.UNİTE UYGULAMA 26\2.UNİTE UYGULAMA 26\obj\Debug\2.UNİTE UYGULAMA 26.pdb
